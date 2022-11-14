@@ -133,7 +133,7 @@ Using Authentication
 
 Authentication is the next logical step here, and how it's implemented will
 likely vary significantly depending the API and how auth is handled.  For
-simplicities sake, we will be making the assumption of a simple API key that
+simplicity's sake, we will be making the assumption of a simple API key that
 will be provided as an additional header with every call.  To handle this, we
 will need to make a couple of changes:
 
